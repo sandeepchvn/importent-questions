@@ -74,12 +74,17 @@ spring boot-> spring web, data JPA, PostgreSQL, dev tools
 	6) @SpringBootApplication  (@SpringBootConfiguration  , @EnableAutoConfiguration  , @ComponentScan)
 	7) @Repository
 	8) @ControllerAdvice(class)
-	11)@ExceptionHandler(Arithemn)
+	9) @ExceptionHandler(Arithemn)
 	9) @RestController--> Rest API--> json
-	10) @Controller--> web App--> HTML, JSP 
-
-
-
+	10)@Controller--> web App--> HTML, JSP 
+	11)@Scope (singleton , prototype)
+	12)@Primary
+	13)@Qualifier
+	14)@Bean
+	15)@Transactional
+	16)@RequestParam
+	17)@PathVariable
+	18)@RequestMapping
 ------------------------------------------question asked in company interview-------------
 
 
