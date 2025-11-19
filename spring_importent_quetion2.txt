@@ -1,0 +1,109 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Oops,, Array , String ,, Exception ,, Collection ,,  Mutlithreading ,, java 8,,
+
+
+
+JDBC ?  , 5 steps , Driver(postgresql) --> types jdbc Driver (thin Driver)
+Servlet?  ,, how to create (Servlet,GS,HttpS)Get, Post ,, Life Cycle of Servlet, JSP 
+
+
+
+
+Hibernate ?,, ORM???  ,, Entity?? ,, caching ,, 
+
+Spring ?? ,, Spring boot,, MVC 
+annotations,,
+
+
+spring core-> DI , IOC (Spring container)
+
+
+
+
+
+1) what is spring ? 
+2) diff between Spring and Spring boot
+2) what is IOC and DI.
+3) what is Spring container. 
+4) types of Spring container->(BeanFactory, ApplicationContext,)
+5) what is MVC and Spring MVC
+6) what is spring boot, why we use spring boot,
+7) what is REST(Representational State Transfer)-->http--> state less
+8) what is webservice. 
+8) Difference between API and REST API
+9) HTTP status codes 
+	1xx informational response
+	2xx success
+	3xx redirection
+	4xx client errors
+	5xx server errors
+	
+	200->OK
+	201->Created
+	204->No Content
+	400->Bad Request
+	401->Unauthorized
+	403->Forbidden
+	404->Not Found
+	500->Internal Server Error
+
+spring boot-> spring web, data JPA, PostgreSQL, dev tools
+10) what is ResponseEntity(class)(status code, body, message)
+11) what is JpaRepository(interface) (data JPA)
+12) explain below given annotations
+	1) @Component
+	2) @ComponentScan(package name)
+	3) @Autowired(DI)
+	4) @Value(DI)
+	5) @Configuration
+	6) @SpringBootApplication  (@SpringBootConfiguration  , @EnableAutoConfiguration  , @ComponentScan)
+	7) @Repository
+	8) @ControllerAdvice(class)
+	11)@ExceptionHandler(Arithemn)
+	9) @RestController--> Rest API--> json
+	10) @Controller--> web App--> HTML, JSP 
+
+
+
+------------------------------------------question asked in company interview-------------
+
+
+(Giant Leap )
+1) Why we use spring boot over Hibernate--> data JPA (JpaRrpossitory-->CRUD)
+2) Diff spring and  spring boot
+3) What is JPA-->hibernate,
+4) Query to find 3rd max sal.(sql)
+5) How to send form data to API.
+6) Explain JDK jre jvm
+7) Features of java ?
+8) Spring?
+9) Spring mvc?--> web app
+8) Projects ?  
+	Connection of front end to backend?                               
+	Form creations?
+9)  exception handling in spring boot.->  @RestControllerAdvice ,@ExceptionHandler(StudentNotFount)
+10) how to create spring boot project,
+11) jar(war) file.
+
+
+
+
+spring boot --> data JPA  depe  , postgreqsp dep----> application.pro url , un ,pass--> JpaRepository<Entity, ID>
+
+
+
