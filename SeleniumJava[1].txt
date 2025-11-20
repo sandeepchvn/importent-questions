@@ -1,0 +1,82 @@
+
+
+
+oops? en, Abs, pol, in ,,, Exception ? throw ,throws,, finaly block,, , String ,array , Collection ,
+
+1)Explore about company (explore in their company website)
+
+2)Introduction(2min)---> tell me about yourself  
+short
+
+3)java programs
+numbers----> factorial ,sum ,greatest ,smallest ,prime , odd or even ,fibonoci series
+pattern----> star, pyramid ,butterfly , triangle etc
+array------> zig zag, merging two array , reverse the array , finding duplicate ,remove duplicate ,count duplicate ,
+          bubble sort , swapping digits , largest , smallest, right rotation, left rotation 
+example: count duplicate input: 1,2,3,2,1,3   output----> 1-2 ,2-2,3-2
+String ----> SubString input="manikandan" output---> Kandan
+       ----> palindrome , reverse String , duplicate , count character , remove duplicate ,
+             separate character ----> input:"1abc2$87" output--- String num="187",String char="abc" ,String spl="$"
+Collection ----> array to arraylist ,arraylist to array ,set to list ,list to set 
+           ----> remove duplicate by set
+           ----> maps full theory 
+ 
+
+
+
+
+
+
+4)Automation(6/2/25)--->afternoon 
+why automation ?
+what is selenium 
+and recent version in selenium 4.28.0
+explain architecture of selenium
+webdriver architecture
+what is webdriver and methods 
+what is webelement and methods 
+diff findElement and FindElements 
+what is locator and types 
+what is xpath---> static xpath and dynamic 
+select,action ,robot class
+popup ----> child browser , alert popup, file upload 
+iframe(*) 
+what is synchronization and how to handle
+what is javaScritExecutor 
+how to take the Screenshot and the steps 
+ Testng tools and features of testng
+what is annotation 
+what is @test annotation
+what terminology in testng
+configuration annotation
+data provider annotation 
+helper methods of testng
+what is assertion and types 
+diff hard and soft assert
+POM---page object model and advantages  
+POM.xml(project object model)
+listeners interface and advantages 
+what is framework and types of framework 
+what is data testing framework
+how to read data from excel ?
+how to read data from properties ?
+ what is git and GitHub
+what is bDT framework
+what is shadow root element and how to handle
+what is cI and CD pipline 
+what is jenkin and usage 
+
+5)sql----> query , 
+
+6)Api
+What is an API ?
+What is the difference between Rest api and Soap Api ?
+What is response time 
+What is http request 
+What is http methods 
+What is the difference between PUT and Patch 
+Why do we use POST method.
+What is the meaning of status code (200 ,201,204,400,401,403,405,404,502,500)
+What are the various formats which can be used to trigger the api through request    
+ 
+ 
